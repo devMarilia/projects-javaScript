@@ -2,7 +2,7 @@
 
 const texto = document.querySelector('.text')
 
-HTMLNovo = 'Slide Show JavaScript <br>';
+HTMLNovo = 'Slide Show em JavaScript  <br>';
 
 texto.insertAdjacentHTML('afterbegin', HTMLNovo);
 
