@@ -15,7 +15,7 @@
 </h1>
 
 
-<p align="center">Com apanes algumas linhas de códigos este lindo SLIDE foi construído com JS puro e completamente adaptavél para qualquer tipo de dispositivo. Eu espero que goste e que se sinta á vontade para contriburir, clonar e entrar em contato!</p><br>
+<p align="center">Com apanas algumas linhas de códigos este lindo SLIDE foi construído com JS puro e completamente adaptavél para qualquer tipo de dispositivo. Eu espero que goste e que se sinta á vontade para contriburir, clonar e entrar em contato!</p><br>
 
 <h1 align="center">
   <img alt="JavaScript" title="#JavaScript" src="https://media.giphy.com/media/kd2VGZFWNWkTY1nz5p/giphy.gif" />
