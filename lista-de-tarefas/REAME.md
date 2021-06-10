@@ -6,11 +6,18 @@
 
 <p align="center">🚀 O JavaScript é uma linguagem de programação usada para adicionar interatividade e outros recursos dinâmicos nos sites.</p><br>
 
-Dentro deste aquivo desejo implementar 30 dias de Javascript puro para criar habilidades com a linguagens e os projetos disponíveis até o momento são:
-
 ### Projetos
 
 - [x] Lista de Tarefas
+
+<h1 align="center">
+  <img alt="JavaScript" title="#JavaScript" src="https://media.giphy.com/media/K8fXZaG915JA2xBihK/giphy.gif" />
+</h1>
+
+<p align="center">
+  Projeto Lista de tarefas que permite adicionar, excluir e check da atividade realizada.<br>
+  O Objetivo principal deste projeto foi focar na funcionalidade apenas e não no CSS. 
+</p>
 
 ### Ícones para commits padrão
 
